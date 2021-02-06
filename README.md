@@ -9,7 +9,7 @@
   <ul>
   <li>https://mml-book.github.io/</li>
   <li>https://alex.smola.org/drafts/thebook.pdf</li>
-  //You can get probably all important books here!
+  //You can probably get all important books here!
    <li>https://www.pdfdrive.com/machine-learning-books.html</li>
   <ul>
  <hr></hr>
