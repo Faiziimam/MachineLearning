@@ -14,4 +14,5 @@
   <ul>
  <hr></hr>
   <h2>Topics</h2>
-  <li>https://www.geeksforgeeks.org/ml-introduction-data-machine-learning/</li>
+  <h3>Day 1</h3>
+  <li>/</li>
