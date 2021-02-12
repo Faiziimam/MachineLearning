@@ -15,4 +15,32 @@
  <hr></hr>
   <h2>Topics</h2>
   <h3>Day 1</h3>
-  <li>/</li>
+  <a href="https://www.geeksforgeeks.org/data-preprocessing-machine-learning-python/">
+    <ul>
+        <li>Data Preprossing</li>
+        <ol>
+            <li>
+                Imoprting Lib
+                 <ul>
+                     <li>Numpy</li>
+                     <li>Pandas</li>
+                     <li>Matplotlib.pyploy</li>
+                 </ul>
+            </li>
+            <li>Importing The Dataset</li>
+            <li>Taking care of the missing data</li>
+            <li>Encoding the data</li>
+            <ol type="a">
+                <li>Encoding the independent variable</li>
+                <li>Encoding the Dependent variable</li>
+            </ol>
+            <li>Splitting the dataset</li>
+            <li>Feature Scalling</li>
+            <ul>
+                <li>Standardization</li>
+                <li>Normalization</li>
+            </ul>
+        </ol>
+    </ul>
+</a>
+
